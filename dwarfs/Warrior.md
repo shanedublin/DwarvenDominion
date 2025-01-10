@@ -9,7 +9,7 @@ They also have passive actions.
 |Level|Movement|Dice|Bonus|
 |-----|----|----|----|
 |1|3|Iron Dice||
-|2|4|Stone Dice|Conscription|
+|2|4|Stone Dice|[Conscription](../Combat.md#conscription)|
 |3|5|Stone and Gold Dice|May sacrifice attack for 3 more movement|
 |4|6|Iron stone and gold Dice|May sacrifice movement for additional action|
 

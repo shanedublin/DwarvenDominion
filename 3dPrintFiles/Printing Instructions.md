@@ -52,7 +52,6 @@ Resource counters
 30 large gold
 10 BIG gold
 
-
 1 stone monument
 1 iron monument
 1 gold monument

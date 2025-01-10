@@ -1,5 +1,10 @@
 # Worker Dwarfs
 
+Workers are your primary dwarf. They get stuff done.  
+Their main tasks are building mining and upgrading.  
+
+---
+
 |Level|Movement|Dice|Bonus|
 |-----|----|----|----|
 |1|3|1||
@@ -7,7 +12,13 @@
 |3|7|2|Extra dice on roll for dwarfs|
 |4|9|2|Rail Roads don't cost stone or metal |
 
+---
+
 ## Actions
+
+- [Explore](#explore)
+- [Build/Upgrade](#build--upgrade)
+- [Mine](#mine)
 
 ### Explore
 
@@ -37,4 +48,6 @@ They may build/upgrade the following
 
 If the dwarf is standing on a mine or resource tile they may chose to you their action to mine it.
 
-Roll 1 dice for the resource tile.
+Roll 1 dice for the resource tile.  
+
+If the resource tile has a mine on it you may use the mine provided you have the owner's permission.  (They have to grant it to you)  
