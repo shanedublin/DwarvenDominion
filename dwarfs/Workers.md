@@ -2,10 +2,10 @@
 
 |Level|Movement|Dice|Bonus|
 |-----|----|----|----|
-|1|4|1||
-|2|6|1|May Build 2 rail roads for their action|
-|3|8|2|Extra dice on roll for dwarfs|
-|4|3|2|Rail Roads don't cost stone or metal |
+|1|3|1||
+|2|5|1|May Build 2 rail roads for their action|
+|3|7|2|Extra dice on roll for dwarfs|
+|4|9|2|Rail Roads don't cost stone or metal |
 
 ## Actions
 

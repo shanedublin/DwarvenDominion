@@ -1,8 +1,8 @@
 # Determining Turn Order
 
-Everyone rolls one of each dice. (Stone, Iron Gold)  
+Everyone rolls one of each dice. (Stone, Iron, and Gold)  
 The person with the lowest roll goes first.  
-Add These to your resource totals.  
+Add these to your resource totals.  
 Player turn proceeds with the next lowest player going next. Gold is worth the most, metal is worth 2nd, and stone is worth the least.
 
 ## Examples

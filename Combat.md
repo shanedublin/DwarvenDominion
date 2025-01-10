@@ -18,7 +18,7 @@ All participants of the losing team get sent to the hospital.
 
 ## Hospital
 
-Draws that lost a battle are sent here. At the start of a players turn place all your dwarfs that were in the hospital adjecent to your stronghold laying down. These dwarfs may not take a turn.
+Dwarfs that lost a battle are sent here. At the start of a players turn place all your dwarfs that were in the hospital adjacent to your stronghold laying down. These dwarfs may not take a turn.
 You may stand up all dwarfs that were laying down from the previous turn and use them normally.  
 This effectively removes dwarfs that lost a battle from 1 turn of play.  
 
