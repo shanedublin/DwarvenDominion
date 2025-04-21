@@ -8,10 +8,10 @@ They also have passive actions.
 
 |Level|Movement|Dice|Bonus|
 |-----|----|----|----|
-|1|3|Iron Dice||
+|1|3|copper Dice||
 |2|4|Stone Dice|[Conscription](../Combat.md#conscription)|
 |3|5|Stone and Gold Dice|May sacrifice attack for 3 more movement|
-|4|6|Iron stone and gold Dice|May sacrifice movement for additional action|
+|4|6|copper stone and gold Dice|May sacrifice movement for additional action|
 
 ---
 Conscription: May force friendly dwarfs to fight alongside warrior, adding their dice to his.

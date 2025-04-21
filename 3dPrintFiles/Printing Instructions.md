@@ -10,13 +10,13 @@ If you buy the set from my etsy this is what you'll get.
 49 mountain tiles
 
 - 4 contain gold
-- 8 contain iron
+- 8 contain copper
 - 12 contain stone
 
 24 resource tiles
 
 - 4 gold
-- 8 iron
+- 8 copper
 - 12 stone
 
 72 Player Pieces
@@ -32,7 +32,7 @@ If you buy the set from my etsy this is what you'll get.
 18 dice
 
 - 6 gold dice
-- 6 iron dice
+- 6 copper dice
 - 6 stone dice
 
 Resource counters
@@ -40,9 +40,9 @@ Resource counters
 60 small gems
 12 large gems
 
-60 small iron
-30 large iron
-10 BIG iron
+60 small copper
+30 large copper
+10 BIG copper
 
 60 small stone
 30 large stone
@@ -53,5 +53,5 @@ Resource counters
 10 BIG gold
 
 1 stone monument
-1 iron monument
+1 copper monument
 1 gold monument

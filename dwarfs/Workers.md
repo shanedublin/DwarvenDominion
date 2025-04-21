@@ -10,7 +10,7 @@ Their main tasks are building mining and upgrading.
 |1|3|1||
 |2|5|1|May Build 2 rail roads for their action|
 |3|7|2|Extra dice on roll for dwarfs|
-|4|9|2|Rail Roads don't cost stone or metal |
+|4|9|2|Rail Roads don't cost stone or copper |
 
 ---
 
@@ -30,7 +30,7 @@ Roll one stone die + 1 die for the resource you discovered. (If you discovered s
 Additionally you get Gems for discovering resources
 
 - stone = 1 gem
-- iron = 2 gems
+- copper = 2 gems
 - gold = 3 gems
 
 ### Build / Upgrade
