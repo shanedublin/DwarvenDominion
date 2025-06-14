@@ -27,7 +27,7 @@ If you buy the set from my etsy this is what you'll get.
 - 2 lvl 2 mines
 - 2 lvl 3 mines
 - 4 stronghold pieces
-- Player bucket thing
+- Player minecart
 
 18 dice
 

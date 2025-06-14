@@ -6,7 +6,7 @@ Railroads allow your dwarfs to travel quickly around the map, they also can incr
 
 Rail Road cost
 
-|Level|Stone|Iron|Gold|Reward|
+|Level|Stone|copper|Gold|Reward|
 |-----|----|----|----|------|
 |N/A|2|1|0| See Below|
 
@@ -17,7 +17,7 @@ Rail Road cost
 Workers do not use movement when on a railroad.  (Warriors can not use them)  
 Railroads are considered neutral and may be used by all players.
 
-Warriors may destroy them as their attacktion
+Warriors may destroy them as their action
 
 If a mine is connected to your stronghold via railroad you may reroll any resource dice coming from that mine.  This reroll is optional but you must take the resource from the rerolled die.  
 

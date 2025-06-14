@@ -27,3 +27,4 @@ The game contains many small pieces So I would advise against letting children p
    - [Stronghold](./buildings/Stronghold.md)  
    - [Monument](./buildings/Monument.md)
 6. [About Me](./About.md)
+7. [Cost Cheat sheet](./CheatSheet.md)

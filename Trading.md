@@ -7,8 +7,8 @@ You can make trades at anytime during the game. (Even when it is not your turn)
 ## Resource Bank
 
 Trade rates with resources bank:  
-Stone for metal 5:1  
-Metal for gold  10:1  
+Stone for copper 5:1  
+Copper for gold  10:1  
 Gold for gems   10:1  
 
 Note: You may only trade in 1 direction with the resource bank. IE: you can trade 50 stone for 1 gold, but you can't trade 1 gem for 10 gold.

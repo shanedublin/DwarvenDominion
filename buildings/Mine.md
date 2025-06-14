@@ -1,13 +1,13 @@
 # Mines
 
-Mines enable you to automatically generate resources at the start of your turn. 
+Mines enable you to automatically generate resources at the start of your turn.  
 They also will allow dwarfs to mine more efficiently.  
 
 ---
 
 Mine build and upgrade costs
 
-|Level|Stone|Iron|Gold|Reward|
+|Level|Stone|copper|Gold|Reward|
 |-----|----|----|----|------|
 |1|4|2|1|1 Gem|
 |2|8|4|2|2 Gems|
